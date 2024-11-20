@@ -2,3 +2,5 @@ Esse é um trabalho realizado para fins acadêmicos, utilizei o React Native, co
 
 Esta aplicação possui duas telas, na inicial é possível registrar um cliente atrelado a um serviço realizado, preenchendo nome/ serviço/ telefone e data. A segunda tela exibe um relatório dos registros, sendo possível filtrar por nome ou serviço, e podendo colocar a ordenação por data de registro. Para que as funcionárias de um salão de beleza possam registrar cada serviço que fizer atrelhado à cliente, e puxando no relatório, poder acompanhar, para atendimento especializado e ofertas de promoções exclusivas.
 A aplicação salva os registros localmente no aparelho em que está instalado, assim não se tornou necessário o uso de bancos de dados externos, apenas utilizei a tecnologia de função assíncrona.
+
+Fora do diretório principal 'relatorio-salao' disponibilizo o arquivo final .apk para instalação e teste em dispositivo de terceiros (apenas para fins acadêmicos e estudantis). As alterações feitas no dispositivo do terceiro não interfere nos dados salvos por outros usuários, uma vez que a persistência de dados é local.
