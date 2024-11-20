@@ -1,0 +1,1 @@
+Esse é um trabalho realizado para fins acadêmicos, utilizei o React Native, com React Native CLI, Expo, Node.js, Java JDK, e fiz posteriormente o bundle do app com o Expo ESA, gerando um arquivo .aab que converti para .apk, para rodar no celular do cliente.
